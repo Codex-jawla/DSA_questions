@@ -1,3 +1,10 @@
+// 
+// finding the first and last occrence of any number in sorted array
+// Binary seach approch
+// 
+
+
+
 package com.himanshu.binaryQues;
 
 import java.util.Arrays;
