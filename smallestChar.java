@@ -2,6 +2,7 @@ package com.himanshu.binaryQues;
 
 // problem name ----------------->>>>>>>>>>>>>
 //  **** possible smallest character greater then target ****
+// Binary seach approch
 // <<<<<<<<<<------------------- end.
 
 public class smallestChar {
