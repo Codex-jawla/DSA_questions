@@ -2,6 +2,7 @@
 
 // problem name ----------------->>>>>>>>>>>>>
 //  **** possible minimum element greater or equal to target ****
+// **** Binary seach approch ****
 // <<<<<<<<<<------------------- end.
 
 
