@@ -1,3 +1,9 @@
+// problem name " Found in mountain array ----------------->>>>>>>>>>>>>
+// finding the number in sorted mountain array >>>>  [ 1,4,8,12,34,27,21,15,7,2] 
+// Binary seach approch
+// ----------------->>>>>>>>>>>>>end
+
+
 package com.himanshu.binaryQues;
 
 public class foundInMountain {
