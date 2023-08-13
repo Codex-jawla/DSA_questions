@@ -1,5 +1,7 @@
 // problem name " search in 2d sorted array ----------------->>>>>>>>>>>>>
-// finding the number which is greatest in sorted mountain array >>>>  [ 1,4,8,12,34,27,21,15,7,2] ans= 34 or 4th index
+// finding the number which is greatest in sorted mountain array >>>>  [ [1,4,8,],
+//                                                                       [12,14,17],
+//                                                                       [21,25,27]] 
 // Binary search approch
 // ----------------->>>>>>>>>>>>>end
 
