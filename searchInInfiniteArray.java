@@ -1,3 +1,10 @@
+
+// problem name ----------------->>>>>>>>>>>>>
+//  **** Search in sorted infinite array ****
+// Binary seach approch
+// <<<<<<<<<<------------------- end.
+
+
 package com.himanshu.binaryQues;
 
 public class searchInInfiniteArray {
