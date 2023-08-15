@@ -1,3 +1,10 @@
+
+// problem name ----------------->>>>>>>>>>>>>
+//  **** Search in rotated sorted array [10,14,0,4,8,9] ****
+// Binary seach approch
+// <<<<<<<<<<------------------- end.
+
+
 package com.himanshu.binaryQues;
 
 public class rotatedSorted {
