@@ -1,6 +1,6 @@
 
 // problem name ----------------->>>>>>>>>>>>>
-//  **** Search in rotated sorted array [10,14,0,4,8,9] ****
+//  **** Search in rotated sorted array [10,14,0,4,8,9] and duplicate rotated sorted array [10,10,14,0,0,4,8,8,9]  ****
 // Binary seach approch
 // <<<<<<<<<<------------------- end.
 
