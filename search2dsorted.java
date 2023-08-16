@@ -1,3 +1,9 @@
+// problem name ----------------->>>>>>>>>>>>>
+//  **** Search in 2d rotated sorted array [[3,6,7,10],        **********
+                                            [15,18,20,27],
+                                            [30,35,38,40]] 
+// <<<<<<<<<<------------------- end.
+
 package com.himanshu.binaryQues;
 import java.util.*;
 
