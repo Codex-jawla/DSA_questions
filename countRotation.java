@@ -1,3 +1,9 @@
+// problem name ----------------->>>>>>>>>>>>>
+//  **** Counting rotations in rotated sorted array ****
+// Binary seach approch
+// <<<<<<<<<<------------------- end.
+
+
 package com.himanshu.binaryQues;
 
 public class countRotation {
