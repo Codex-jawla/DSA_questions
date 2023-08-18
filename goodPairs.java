@@ -1,3 +1,7 @@
+// problem name " Good pairs ----------------->>>>>>>>>>>>>
+// arrays
+// ----------------->>>>>>>>>>>>>end
+
 package com.himanshu.leetCodeQues;
 
 public class goodPairs {
