@@ -1,3 +1,7 @@
+// problem name " leetcode Question number 1365 ----------------->>>>>>>>>>>>>
+// arrays
+// ----------------->>>>>>>>>>>>>end
+
 package com.himanshu.leetCodeQues;
 
 import java.util.Arrays;
