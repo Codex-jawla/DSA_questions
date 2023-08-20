@@ -1,7 +1,7 @@
 // problem name " leetcode Question number 1295 ----------------->>>>>>>>>>>>>
 // Even digit numbers in array
 // arrays
-// ----------------->>>>>>>>>>>>>end
+// ----------------->>>>>>>>>>>>>end.
 
 package com.himanshu.leetCodeQues;
 
