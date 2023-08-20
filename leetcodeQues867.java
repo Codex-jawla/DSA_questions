@@ -1,3 +1,8 @@
+// problem name " leetcode Question number 867 ----------------->>>>>>>>>>>>>
+// Transpose of matrix
+// arrays
+// ----------------->>>>>>>>>>>>>end
+
 package com.himanshu.leetCodeQues;
 
 import java.util.ArrayList;
