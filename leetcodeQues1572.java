@@ -1,3 +1,7 @@
+// problem name " leetcode Question number 1572 ----------------->>>>>>>>>>>>>
+// arrays
+// ----------------->>>>>>>>>>>>>end
+
 package com.himanshu.leetCodeQues;
 
 import static java.lang.Math.abs;
