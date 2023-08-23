@@ -1,3 +1,7 @@
+// problem name " leetcode Question number 1732 ----------------->>>>>>>>>>>>>
+// arrays
+// ----------------->>>>>>>>>>>>>end
+
 package com.himanshu.leetCodeQues;
 
 public class leetcodeQues1732 {
