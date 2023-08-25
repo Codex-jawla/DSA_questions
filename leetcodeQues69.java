@@ -1,3 +1,7 @@
+// problem name " leetcode Question number 69 ----------------->>>>>>>>>>>>>
+// arrays  find square root
+// ----------------->>>>>>>>>>>>>end
+
 package com.himanshu.leetCodeQues;
 
 public class leetcodeQues69 {
