@@ -1,3 +1,8 @@
+// problem name " leetcode Question number 80 ----------------->>>>>>>>>>>>>
+// arrays  removeduplicate
+// ----------------->>>>>>>>>>>>>end
+
+
 package com.himanshu.leetCodeQues;
 
 import java.util.Arrays;
