@@ -1,3 +1,8 @@
+// problem name " leetcode Question number 88 ----------------->>>>>>>>>>>>>
+// arrays  merge to array
+// ----------------->>>>>>>>>>>>>end
+
+
 package com.himanshu.leetCodeQues;
 
 import java.util.Arrays;
