@@ -1,3 +1,7 @@
+// problem name " leetcode Question number 26 ----------------->>>>>>>>>>>>>
+// arrays  remove duplicate
+// ----------------->>>>>>>>>>>>>end
+
 package com.himanshu.leetCodeQues;
 
 import java.util.Arrays;
