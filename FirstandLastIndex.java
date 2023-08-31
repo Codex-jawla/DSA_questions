@@ -1,4 +1,4 @@
-// problem name ----------------->>>>>>>>>>>>>
+ // problem name ----------------->>>>>>>>>>>>>
 // finding the first and last occrence of any number in sorted array
 // Binary seach approch
 // ----------------->>>>>>>>>>>>>end
