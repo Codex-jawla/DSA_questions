@@ -1,3 +1,8 @@
+// problem name " leetcode Question number 122 ----------------->>>>>>>>>>>>>
+// arrays buy and sell stock 2
+// ----------------->>>>>>>>>>>>>end
+
+
 package com.himanshu.leetCodeQues;
 
 public class leetcodeQues122 {
