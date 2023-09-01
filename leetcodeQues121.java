@@ -1,3 +1,8 @@
+// problem name " leetcode Question number 121 ----------------->>>>>>>>>>>>>
+// arrays  buy and sell stock
+// ----------------->>>>>>>>>>>>>end
+
+
 package com.himanshu.leetCodeQues;
 
 import java.util.Arrays;
