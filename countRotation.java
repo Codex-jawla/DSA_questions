@@ -1,7 +1,7 @@
 // problem name ----------------->>>>>>>>>>>>>
 //  **** Counting rotations in rotated sorted array ****
 // Binary seach approch
-// <<<<<<<<<<------------------- end.
+// <<<<<<<<<<-------------------- end.
 
 
 package com.himanshu.binaryQues;
